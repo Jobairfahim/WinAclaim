@@ -2,5 +2,5 @@
 ### 📫 Live link
 
 <p align="center">
-  <a href="https://win-aclaim.vercel.app">
+  <a href="https://win-aclaim.vercel.app">WinaClaim
 <p/>
